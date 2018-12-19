@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Graf 25</string>
+    <string name="tab_text_3">Graf 75</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="txv_title_temp">Smart Home</string>
+    <string name="txv_indoor_temp">Indoor temperature:</string>
+    <string name="txv_indoor_temp_show">11.11</string>
+    <string name="txv_outdoor_temp">Outdoor temperature:</string>
+    <string name="txv_outdoor_temp_show">15.15</string>
+    <string name="txv_outdoor_light">Lighting:</string>
+    <string name="txv_heater">Heating:</string>
+    <string name="txv_outdoor_light_show">Off</string>
+    <string name="txv_outdoor_light_on">On</string>
+
+</resources>
