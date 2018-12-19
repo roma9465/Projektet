@@ -49,7 +49,7 @@ public class TempFetch {
     public String getTemp() {
         String text = run("tdtool -l").toString();
         String str = "135";
-        return text.startsWith(str).split[]
+       return text.split("\\n")[9].split("\\t")[3].substring(0, text.length() - 1);
     }
 
     public StringBuilder run (String command) {
